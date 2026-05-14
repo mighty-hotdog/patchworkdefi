@@ -8,15 +8,15 @@ A wallet app that stitches together code from PatchworkDefi and other sources to
 A tokenswap app that stitches together code from PatchworkDefi and other sources to create a barebones defi app.  
 
 # The Goal
-A. A working ERC20/ERC1155/ERC6909-capable wallet.  
-B. A working ERC20/ERC1155/ERC6909-capable tokenswap app:  
-    a. with anti-slippage mechanism,  
-    b. manages liquidity pools with compatible ERC4626 vaults,  
-    c. connects multiple wallet types,  
-    d. integrates multiple pricefeed oracles,  
-    e. provides onboarding for new tokens.  
-C. A Solidity/Foundry/Echidna/Chimera/Medusa dev + test rig.  
-D. A test sandbox Docker container running a reth node.  
+1. A working ERC20/ERC1155/ERC6909-capable wallet.  
+2. A working ERC20/ERC1155/ERC6909-capable tokenswap app:  
+   a. with anti-slippage mechanism,  
+   b. manages liquidity pools with compatible ERC4626 vaults,  
+   c. connects multiple wallet types,  
+   d. integrates multiple pricefeed oracles,  
+   e. provides onboarding for new tokens.  
+3. A Solidity/Foundry/Echidna/Chimera/Medusa dev + test rig.  
+4. A test sandbox Docker container running a reth node.  
 
 # The Plan
 Restart: 15May2026  
